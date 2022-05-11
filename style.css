@@ -1,0 +1,93 @@
+body{
+    background-color: bisque;
+}
+section{  
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    background-image: url(images/animals.jpg);
+    background-size: cover;  
+}
+nav h1{
+    font-size: 600%;
+    padding-left: 30%;
+    margin-top: 10%;
+    color: white;
+}
+nav a{
+    text-align: right;
+    padding-left: 10%; 
+    margin-left: 70px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 160%;
+}
+.welcome h1{
+    padding-left: 20%;
+    font-size: 300%;
+}
+.welcome h2{
+    padding-left: 10%;
+    font-size: 200%;
+   
+}
+.welcome{
+    background-image: url(images/birds.jpeg);
+    margin-top: 30px;
+    color: red;
+    font-size: 170%;
+    font-family: fantasy; 
+     box-shadow: 10px 10px 10px 10px rgb(212, 164, 157); 
+}
+footer{
+    display: flex;
+    margin-top: 50%;
+}
+.contacts{
+    padding-left: 60px;
+}
+.country{
+padding-left: 30%;
+}
+.information{
+    padding-left: 30%;
+}
+.fa-facebook{
+    color: blue;
+    height: 30px;
+    width: 20%;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 8px;
+    border: solid 50%;
+    background-color: rgb(229, 231, 93);
+}
+.fa-twitter{
+    color: blue;
+    height: 30px;
+    width: 20%;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 8px;
+    border: solid 50%;
+    background-color: rgb(221, 213, 97);
+}
+.fa-google{
+    color: blue;
+    height: 30px;
+    width: 20%;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 8px;
+    border: solid 50%;
+    background-color: rgb(235, 226, 101);
+}
+.fa-linkedin{
+    color: blue;
+    height: 30px;
+    width: 20%;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 8px;
+    border: solid 50%;
+    background-color: rgb(236, 245, 120);
+}
