@@ -1,11 +1,12 @@
 body{
-    background-color: bisque;
+    background-color: rgb(248, 245, 241);
 }
 section{  
     background-repeat: no-repeat;
     overflow-x: hidden;
     background-image: url(images/animals.jpg);
     background-size: cover;  
+    box-shadow: 15px 15px 15px 15px rgb(219, 221, 105); 
 }
 nav h1{
     font-size: 600%;
@@ -40,7 +41,7 @@ nav a{
 }
 footer{
     display: flex;
-    margin-top: 50%;
+    margin-top: 40%;
 }
 .contacts{
     padding-left: 60px;
@@ -90,4 +91,11 @@ padding-left: 30%;
     padding-top: 8px;
     border: solid 50%;
     background-color: rgb(236, 245, 120);
+}
+#btn{
+    background-color: blue;
+    margin-left: 50%;
+    height: 50px;
+    border-radius: 10px;
+    box-shadow: 15px 15px 15px 15px rgb(219, 221, 105); 
 }
