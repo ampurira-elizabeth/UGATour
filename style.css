@@ -1,5 +1,5 @@
 body {
-    background: linear-gradient(green,red); 
+    background: linear-gradient(green, red);
 }
 
 section {
@@ -115,7 +115,8 @@ footer {
     border-radius: 10px;
     box-shadow: 5px 5px 5px 5px rgb(219, 221, 105);
 }
-#nxt{
+
+#nxt {
     margin-left: 90%;
     background-color: yellow;
     height: 50px;

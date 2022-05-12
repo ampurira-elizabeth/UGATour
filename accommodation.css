@@ -1,6 +1,6 @@
 section {
-    
-    background: linear-gradient(green,red); 
+
+    background: linear-gradient(green, red);
 }
 
 nav a {
@@ -292,10 +292,11 @@ nav a {
     width: 100px;
     border-radius: 20px;
     text-decoration: none;
-    box-shadow: 5px 5px 5px 5px rgb(206, 206, 203); 
+    box-shadow: 5px 5px 5px 5px rgb(206, 206, 203);
 }
-#nxt{
-     margin-right: 90%; 
+
+#nxt {
+    margin-right: 90%;
     background-color: yellow;
     height: 50px;
     border-radius: 20px;
