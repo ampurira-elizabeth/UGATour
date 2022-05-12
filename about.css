@@ -1,0 +1,111 @@
+body{
+      background: linear-gradient(green,red);  
+}
+.h1{
+    margin-left: 20%;
+    margin-top: 9%;
+    font-size: 200%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+nav a{
+    text-align: right;
+    padding-left: 10%; 
+    margin-left: 70px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 160%;
+}
+section{
+    padding-left: 7%;
+}
+.pic1 img{
+    border-radius: 20%;
+}
+.pic2 img{
+    border-radius: 20%;
+    margin-top: 5%;
+  
+}
+.pic3{
+    position: relative;
+     float: left; 
+}
+ .pic3 img{
+    margin-top: 3%;
+}
+.pic3 h1{
+    position: absolute;
+    visibility: hidden;
+    color: white;
+    background-color: yellow;
+    padding: 10%;
+    border-radius: 10%;
+    margin-top: 10%;
+    margin-left: 25%;
+}
+ .pic3:hover {
+    cursor: pointer;
+    visibility: hidden;
+}
+
+.pic3:hover h1 {
+    visibility: visible;
+
+}  
+.pic4 img{
+    border-radius: 20%;
+    margin-top: 5%;
+}
+.pic5 img{
+    border-radius: 20%;
+    margin-top: 5%;
+}
+.pic6 img{
+    border-radius: 20%;
+    margin-top: 5%;
+}
+#fst{
+    margin-left: 8%;
+}
+#scnd{
+    margin-left: 8%;
+}
+#thrd{
+    margin-left: 10%;
+}
+ #frth{
+    margin-left: 12%;
+}
+.ffth{
+    margin-left: 5%;
+}
+.sth{
+margin-left: 6%;
+}
+.svnth{
+    margin-left: 10%;
+}
+.eght{
+    margin-left: 15%;
+}
+.nnth{
+    margin-left: 7%;
+}
+.tnth{
+    margin-left: 13%;
+}
+#nxt{
+    margin-left: 90%;
+    background-color: yellow;
+    height: 50px;
+    border-radius: 20px;
+}
+#watch{
+    margin-left: 30%;
+ height: 50px;
+ width: 200px;
+ background-color: yellow;
+ border-radius: 10px;
+}
