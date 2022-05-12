@@ -1,0 +1,295 @@
+section {
+    background-color: rgb(137, 190, 120);
+}
+
+nav a {
+    text-align: right;
+    padding-left: 10%;
+    margin-left: 70px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 160%;
+}
+
+.pic1 {
+    display: flex;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+.pic2 {
+    display: flex;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+
+.pic3 {
+    display: flex;
+    padding-left: 5%;
+    padding-top: 5%;
+
+}
+
+#one {
+    margin-left: 10px;
+    position: relative;
+    float: left;
+}
+
+#one img {
+    border-radius: 50%;
+}
+
+#one h5 {
+    position: absolute;
+    visibility: hidden;
+    background-color: blue;
+    padding: 20%;
+    border-radius: 50%;
+}
+
+#one:hover {
+    cursor: pointer;
+    visibility: hidden;
+}
+
+#one:hover h5 {
+    visibility: visible;
+
+}
+
+#two {
+    margin-left: 100px;
+    position: relative;
+    float: left;
+}
+
+#two img {
+    border-radius: 50%;
+}
+
+#two h5 {
+    position: absolute;
+    visibility: hidden;
+    background-color: blue;
+    padding: 20%;
+    border-radius: 50%;
+}
+
+#two:hover {
+    cursor: pointer;
+    visibility: hidden;
+}
+
+#two:hover h5 {
+    visibility: visible;
+
+}
+
+#three {
+    margin-left: 150px;
+    position: relative;
+    float: left;
+}
+
+#three img {
+    border-radius: 50%;
+}
+
+#three h5 {
+    position: absolute;
+    visibility: hidden;
+    background-color: blue;
+    padding: 20%;
+    border-radius: 50%;
+}
+
+#three:hover {
+    cursor: pointer;
+    visibility: hidden;
+}
+
+#three:hover h5 {
+    visibility: visible;
+
+}
+
+#four {
+    margin-left: 20px;
+    position: relative;
+    float: left;
+}
+
+#four img {
+    border-radius: 50%;
+}
+
+#four h5 {
+    position: absolute;
+    visibility: hidden;
+    background-color: blue;
+    padding: 20%;
+    border-radius: 50%;
+}
+
+#four:hover {
+    cursor: pointer;
+    visibility: hidden;
+}
+
+#four:hover h5 {
+    visibility: visible;
+
+}
+
+#five {
+    margin-left: 120px;
+    position: relative;
+    float: left;
+}
+
+#five img {
+    border-radius: 50%;
+}
+
+#five h5 {
+    position: absolute;
+    visibility: hidden;
+    background-color: blue;
+    padding: 20%;
+    border-radius: 50%;
+}
+
+#five:hover {
+    cursor: pointer;
+    visibility: hidden;
+}
+
+#five:hover h5 {
+    visibility: visible;
+
+}
+
+#six {
+    margin-left: 100px;
+    position: relative;
+    float: left;
+
+}
+
+#six img {
+    border-radius: 50%;
+}
+
+#six h5 {
+    position: absolute;
+    visibility: hidden;
+    background-color: blue;
+    padding: 20%;
+    border-radius: 50%;
+}
+
+#six:hover {
+    cursor: pointer;
+    visibility: hidden;
+}
+
+#six:hover h5 {
+    visibility: visible;
+
+}
+
+#seven {
+    margin-left: 9px;
+    position: relative;
+    float: left;
+
+}
+
+#seven h5 {
+    position: absolute;
+    visibility: hidden;
+    background-color: blue;
+    padding: 20%;
+    border-radius: 50%;
+}
+
+#seven:hover {
+    cursor: pointer;
+    visibility: hidden;
+}
+
+#seven:hover h5 {
+    visibility: visible;
+
+}
+
+#seven img {
+    border-radius: 50%;
+    padding-top: 10px;
+}
+
+#eight {
+    margin-left: 60px;
+    position: relative;
+    float: left;
+}
+
+#eight img {
+    border-radius: 50%;
+}
+
+#eight h5 {
+    position: absolute;
+    visibility: hidden;
+    background-color: blue;
+    padding: 20%;
+    border-radius: 50%;
+}
+
+#eight:hover {
+    cursor: pointer;
+    visibility: hidden;
+}
+
+#eight:hover h5 {
+    visibility: visible;
+}
+
+#nine {
+    margin-left: 30px;
+    position: relative;
+    float: left;
+}
+
+#nine img {
+    border-radius: 50%;
+}
+
+#nine h5 {
+    position: absolute;
+    visibility: hidden;
+    background-color: blue;
+    padding: 20%;
+    border-radius: 50%;
+}
+
+#nine:hover {
+    cursor: pointer;
+    visibility: hidden;
+}
+
+#nine:hover h5 {
+    visibility: visible;
+}
+
+#buton {
+    margin-top: 5%;
+    margin-left: 50%;
+    background-color: rgb(224, 63, 104);
+    height: 50px;
+    width: 100px;
+    border-radius: 20px;
+    text-decoration: none;
+    box-shadow: 5px 5px 5px 5px rgb(206, 206, 203); 
+}

@@ -1,0 +1,103 @@
+body{
+    background-color: rgb(137, 190, 120);
+}
+nav a{
+    text-align: right;
+    padding-left: 10%; 
+    margin-left: 70px;
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 160%;
+}
+.heading h1{
+    margin-left: 20%;
+    color: red;
+    
+}
+.heading h3{
+    margin-left: 30%;
+    /* margin-top: 10%; */
+    font-style: italic;
+    color: red;
+}
+.btn input{
+    background-color:  rgb(223, 219, 219);
+   width: 7cm;
+   padding-bottom: 20px;
+}
+.btn{
+    margin-left: 30px;
+    margin-top: 30px; 
+}
+.btn1 input{
+    background-color:  rgb(223, 219, 219);
+    width: 7cm;
+    padding-bottom: 20px;  
+}
+.btn1{
+    margin-left: 30px;
+    margin-top: 30px;  
+}
+.btn2 input{
+    background-color:  rgb(223, 219, 219);
+    width: 7cm;
+    padding-bottom: 20px;  
+}
+.btn2{
+    margin-left: 30px;
+    margin-top: 30px;  
+}
+.btn3 input{
+    background-color:  rgb(223, 219, 219);
+    width: 7cm;
+    padding-bottom: 20px;  
+}
+#email{
+    margin-left: 90px;
+}
+#spend{
+    margin-left: 90px;
+}
+#nation{
+    margin-left: 90px;
+}
+#acc{
+    margin-left: 90px;
+}
+.btn3{
+    margin-left: 30px;
+    margin-top: 30px;  
+}
+.btn4 input{
+  background-color:  rgb(247, 245, 245);
+   height: 2cm; 
+  width: 17cm;
+  padding-bottom: 20px;
+}
+.btn4{
+    margin-left: 30px;
+    margin-top: 30px;
+
+}
+.butons{
+margin-left: 20%;
+}
+.buton1{
+    margin-left: 30%;
+    margin-top: 20px;
+ 
+}
+#two{
+    margin-left: 30%;
+    background-color: rgb(228, 79, 171);
+    height: 50px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px rgb(206, 206, 203); 
+}
+#one{
+    background-color: rgb(230, 66, 148);
+    height: 50px;
+    width: 80px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px rgb(206, 206, 205); 
+}
