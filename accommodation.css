@@ -1,6 +1,12 @@
 section {
 
-    background: linear-gradient(green, red);
+    background: linear-gradient(rgb(141, 232, 141), red);
+}
+.book{
+    color: rgb(219, 23, 105);
+    margin-left: 40%;
+    font-size: 250%;
+    margin-top: 50px;
 }
 
 nav a {
@@ -8,10 +14,9 @@ nav a {
     padding-left: 10%;
     margin-left: 70px;
     text-decoration: none;
-    color: aliceblue;
+    color: rgb(154, 10, 60);
     font-size: 160%;
 }
-
 .pic1 {
     display: flex;
     padding-left: 5%;
@@ -290,9 +295,14 @@ nav a {
     background-color: rgb(224, 63, 104);
     height: 50px;
     width: 100px;
+    border: none;
     border-radius: 20px;
     text-decoration: none;
-    box-shadow: 5px 5px 5px 5px rgb(206, 206, 203);
+    cursor: pointer;
+}
+#buton:hover{
+    box-shadow: 0px 5px 0px 5px rgb(206, 206, 203);
+    transition: 2s;
 }
 
 #nxt {
@@ -300,4 +310,6 @@ nav a {
     background-color: yellow;
     height: 50px;
     border-radius: 20px;
+    border:none;
+    cursor: pointer;
 }
